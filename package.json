@@ -1,6 +1,6 @@
 {
   "name": "@east0422/vite-plugin-git-version",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple vite plugin that generate version and commit info during build",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -29,7 +29,7 @@
   "homepage": "https://github.com/east0422/vite-plugin-git-version",
   "repository": {
     "type": "git",
-    "url": "https://github.com/east0422/vite-plugin-git-version.git"
+    "url": "git+https://github.com/east0422/vite-plugin-git-version.git"
   },
   "devDependencies": {
     "@types/node": "^20.11.25",
